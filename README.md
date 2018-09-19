@@ -1,1 +1,1 @@
-# kotolupenkoig.github.ru
+# kotolupenkoig.github.io
