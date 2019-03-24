@@ -7,5 +7,6 @@
   <link rel="stylesheet" href="main.css">
 </head>
 <body>
+<h1>Часики то тикают</h1>
 <script src="//megatimer.ru/get/1d08fcd3d9540d39bf2194450293aa7a.js"></script>
 </body>
