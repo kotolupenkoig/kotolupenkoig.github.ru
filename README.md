@@ -1,1 +1,0 @@
-# kotolupenkoig.github.io
